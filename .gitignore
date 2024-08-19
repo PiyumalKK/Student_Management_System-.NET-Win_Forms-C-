@@ -1,0 +1,20 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.pdb
+*.cache
+*.ilk
+*.orig

@@ -1,0 +1,252 @@
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Student Registration System.exe.config
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Student Registration System.exe
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Student Registration System.pdb
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student Registration System.csproj.AssemblyReference.cache
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Form1.resources
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Properties.Resources.resources
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student Registration System.csproj.GenerateResource.cache
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student Registration System.csproj.CoreCompileInputs.cache
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student Registration System.exe
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student Registration System.pdb
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Guna.UI2.dll
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student Registration System.csproj.CopyComplete
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Students.resources
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Departments.resources
+D:\Programming Project\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Dashboard.resources
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Azure.Core.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Azure.Identity.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Buffers.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Memory.Data.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Memory.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.AccessControl.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.Permissions.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.Principal.Windows.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Text.Json.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.ValueTuple.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Azure.Core.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Azure.Identity.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Buffers.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Memory.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Memory.Data.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.AccessControl.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.Permissions.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Security.Principal.Windows.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Text.Encodings.Web.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Text.Json.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\System.ValueTuple.xml
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Programming Project\Student Registration System\Student Registration System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Student Registration System.exe.config
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Student Registration System.exe
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Student Registration System.pdb
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Azure.Core.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Azure.Identity.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Memory.Data.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Azure.Core.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Azure.Identity.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Memory.Data.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.Permissions.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student Registration System.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Dashboard.resources
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Departments.resources
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Form1.resources
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Properties.Resources.resources
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student_Registration_System.Students.resources
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student Registration System.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student Registration System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student Registration System.exe
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student Registration System.pdb
+C:\Users\user\Desktop\Student Registration System\Student Registration System\obj\Debug\Student .C8FA4013.Up2Date
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Student Registration System.exe.config
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Student Registration System.exe
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Student Registration System.pdb
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Azure.Core.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Azure.Identity.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Memory.Data.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Azure.Core.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Azure.Identity.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Memory.Data.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.Permissions.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student Registration System.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student_Registration_System.Dashboard.resources
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student_Registration_System.Departments.resources
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student_Registration_System.Form1.resources
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student_Registration_System.Properties.Resources.resources
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student_Registration_System.Students.resources
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student Registration System.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student Registration System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student .C8FA4013.Up2Date
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student Registration System.exe
+C:\Users\user\Desktop\Student Registration System\SMS\Student Registration System\obj\Debug\Student Registration System.pdb

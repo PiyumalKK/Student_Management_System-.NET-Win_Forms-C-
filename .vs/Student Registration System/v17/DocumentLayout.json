@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Academic Projects\\Student Registration System\\SMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|e:\\academic projects\\student registration system\\sms\\student registration system\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|E:\\Academic Projects\\Student Registration System\\SMS\\student registration system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75C26526-A707-4D54-9D1C-0FB3445C4BD4}|Student Registration System\\Student Registration System.csproj|solutionrelative:student registration system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Login.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Login.cs",
+              "ToolTip": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Login.cs",
+              "RelativeToolTip": "Student Registration System\\Login.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwFAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:14:07.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Login.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Student Registration System\\SMS\\Student Registration System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:14:03.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Departments.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Departments.cs",
+              "ToolTip": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Departments.cs",
+              "RelativeToolTip": "Student Registration System\\Departments.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAcwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:12:14.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs [Design]",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Students.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Students.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Student Registration System\\SMS\\Student Registration System\\Students.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:11:53.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departments.cs [Design]",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Departments.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Departments.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Student Registration System\\SMS\\Student Registration System\\Departments.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:11:44.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Dashboard.Designer.cs",
+              "ToolTip": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Student Registration System\\Dashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:11:34.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Dashboard.resx",
+              "RelativeDocumentMoniker": "Student Registration System\\Dashboard.resx",
+              "ToolTip": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Dashboard.resx",
+              "RelativeToolTip": "Student Registration System\\Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-09T05:11:37.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Dashboard.cs",
+              "ToolTip": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Dashboard.cs",
+              "RelativeToolTip": "Student Registration System\\Dashboard.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAA+wFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:09:49.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Academic Projects\\Student Registration System\\SMS\\Student Registration System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Student Registration System\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Student Registration System\\SMS\\Student Registration System\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:08:05.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

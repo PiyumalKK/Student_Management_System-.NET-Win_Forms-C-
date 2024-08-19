@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Untitled (328 x 646 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (328 x 646 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="efsdf2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\efsdf2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (328 x 646 px) (521 x 147 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (328 x 646 px) (521 x 147 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sfasdf1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sfasdf1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dfsdf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dfsdf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="asdas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\asdas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsfsdf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsfsdf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sfasdf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sfasdf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sfdsfsd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sfdsfsd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsdscs1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsdscs1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsfsd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsfsd1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="st11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\st11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (328 x 646 px) (521 x 147 px)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (328 x 646 px) (521 x 147 px)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sadas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sadas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dfsdf1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dfsdf1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sacas1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sacas1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdgDV3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdgDV3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (631 x 144 px) (954 x 118 px) (1095 x 118 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (631 x 144 px) (954 x 118 px) (1095 x 118 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (1234 x 740 px) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (1234 x 740 px) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (631 x 144 px) (445 x 147 px)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (631 x 144 px) (445 x 147 px)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsfsd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsfsd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsfsdaf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsfsdaf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="asdxasxax1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\asdxasxax1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="asdxasxax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\asdxasxax.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="efsdf1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\efsdf1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsdscs2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsdscs2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="efsdf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\efsdf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsfsd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsfsd3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (1234 x 740 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (1234 x 740 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled design (42)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled design (42)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3d dash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3d dash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsgvfdg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsgvfdg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdgDV2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdgDV2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (631 x 144 px) (445 x 147 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (631 x 144 px) (445 x 147 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled design (42)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled design (42).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3d dash1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3d dash1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsfsdaf1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsfsdaf1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="st" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\st.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsfsd2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsfsd2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdgDV1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdgDV1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (500 x 500 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (500 x 500 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdgDV" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdgDV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (500 x 500 px) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (500 x 500 px) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (631 x 144 px) (445 x 147 px)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (631 x 144 px) (445 x 147 px)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (500 x 500 px) (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (500 x 500 px) (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (500 x 500 px) (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (500 x 500 px) (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (631 x 144 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (631 x 144 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dasewe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dasewe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (500 x 500 px) (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (500 x 500 px) (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="st1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\st1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sacas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sacas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sfasdf2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sfasdf2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="efsdf3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\efsdf3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled (631 x 144 px) (954 x 118 px)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled (631 x 144 px) (954 x 118 px).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsdscs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsdscs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="st2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\st2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
